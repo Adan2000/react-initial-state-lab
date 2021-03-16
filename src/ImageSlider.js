@@ -15,4 +15,8 @@ export default class ImageSlider extends Component {
         )
     }
 }
-
+//create the class component
+//we set the initial state of 'currentSlideIndex' to 0 
+//in the render we rende out..
+//I am I am on slide 0, we use this(bcuz we are usinga class) 
+//we then use state(bcuz we are refering to the initial state)

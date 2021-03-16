@@ -10,3 +10,5 @@ ReactDOM.render(
   </div>,
   document.getElementById('root')
 );
+//here we are passing initialCount as a prop to Bomb
+//which will be 120
